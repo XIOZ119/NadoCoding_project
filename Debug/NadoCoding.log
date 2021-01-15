@@ -1,2 +1,7 @@
-﻿  loop.c
-  NadoCoding.vcxproj -> C:\Users\hhh317\Desktop\NadoCoding\NadoCoding\Debug\NadoCoding.exe
+﻿  condition.c
+C:\Users\hhh317\Desktop\NadoCoding\condition.c(49,7): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\hhh317\Desktop\NadoCoding\condition.c(50,16): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\hhh317\Desktop\NadoCoding\condition.c(60,11): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\hhh317\Desktop\NadoCoding\condition.c(60,31): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\hhh317\Desktop\NadoCoding\condition.c(60,31): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  NadoCoding.vcxproj -> C:\Users\hhh317\Desktop\NadoCoding\Debug\NadoCoding.exe

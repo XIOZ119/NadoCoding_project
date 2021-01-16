@@ -18,7 +18,10 @@
     <ClCompile Include="pyramid.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="condition.c">
+    <ClCompile Include="up-and-down.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="function.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

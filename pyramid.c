@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main1(void)
+int main_pyramid(void)
 {
 	//printf("Hello World\n");
 

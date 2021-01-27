@@ -1,5 +1,1 @@
-﻿  function.c
-C:\Users\hhh317\Desktop\NadoCoding\function.c(66,7): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\hhh317\Desktop\NadoCoding\function.c(81,8): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\hhh317\Desktop\NadoCoding\function.c(103,13): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  NadoCoding.vcxproj -> C:\Users\hhh317\Desktop\NadoCoding\Debug\NadoCoding.exe
+﻿  NadoCoding.vcxproj -> C:\Users\hhh317\Desktop\nado-coding\Debug\NadoCoding.exe

@@ -24,5 +24,11 @@
     <ClCompile Include="function.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="subway.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="subway_project.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

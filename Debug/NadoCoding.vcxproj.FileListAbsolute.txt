@@ -2,3 +2,5 @@ C:\Users\hhh317\Desktop\NadoCoding\NadoCoding\Debug\NadoCoding.exe
 C:\Users\hhh317\Desktop\NadoCoding\NadoCoding\Debug\NadoCoding.pdb
 C:\Users\hhh317\Desktop\NadoCoding\Debug\NadoCoding.exe
 C:\Users\hhh317\Desktop\NadoCoding\Debug\NadoCoding.pdb
+C:\Users\hhh317\Desktop\nado-coding\Debug\NadoCoding.exe
+C:\Users\hhh317\Desktop\nado-coding\Debug\NadoCoding.pdb
